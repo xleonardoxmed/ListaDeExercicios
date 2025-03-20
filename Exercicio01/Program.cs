@@ -14,7 +14,7 @@
             decimal height = Convert.ToDecimal(Console.ReadLine());
 
             decimal result = length + width + height;
-            Console.ReadLine()
+            Console.ReadLine();
         }
     }
 }
