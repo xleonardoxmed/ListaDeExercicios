@@ -3,7 +3,7 @@
 namespace Exercicio04
 {
     internal class Program
-    { // Crie um programa para converter a temperatura da escala Celsius para a escala Fahrenheit
+    {
         static void Main(string[] args)
         {
             while (true)

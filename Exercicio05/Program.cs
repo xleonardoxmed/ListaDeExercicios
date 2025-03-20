@@ -1,10 +1,7 @@
 ﻿namespace Exercicio05
 {
     internal class Program
-    {//Crie um programa para calcular o salário total de um vendedor.
-     //Deverá ser informado o salário base e o total de  vendas.
-     //A comissão é calculada com um percentual(informado pelo usuário) sobre o total de vendas.
-
+    {
         static void Main(string[] args)
         {
             while (true)
@@ -46,8 +43,6 @@
                 if (toContinue != "S")
                     break;
             }
-            
-
         }
     }
 }
