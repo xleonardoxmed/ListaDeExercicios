@@ -1,8 +1,7 @@
 ﻿namespace Exercicio08
 {
-    internal class Program
-    {//Crie um programa para verificar se um número é primo.
-        // divisivel apenas por 1 e ele mesmo.
+    internal class Program  
+    {
         static void Main(string[] args)
         {
             while (true)
