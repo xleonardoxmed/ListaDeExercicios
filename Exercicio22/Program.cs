@@ -39,7 +39,7 @@
                     a = b;
                     b = temp;
                 }
-              
+             
                 Console.WriteLine("---------------------------------------------------------------------");
                 Console.WriteLine("Sequência de Fibonacci até o número inserido:");
                 Console.WriteLine(string.Join(" ", fibonacci));
